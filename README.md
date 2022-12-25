@@ -24,4 +24,4 @@
 
 [![Definance-App.jpg](https://i.postimg.cc/brYRvdBH/Definance-App.jpg)](https://postimg.cc/7GczsPDf)
 
-#### I've got it into this app by middle to the end of development cycle, helped to finish it, added the Definance crypto coin to it and published it on Playstore.
+#### I've got it into this app by middle to the end of development cycle, finishing the app, adding the "Definance" crypto coin to it and publishing it on Play Store.
