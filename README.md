@@ -10,7 +10,7 @@
 
 [![Definance-App.jpg](https://i.postimg.cc/brYRvdBH/Definance-App.jpg)](https://postimg.cc/7GczsPDf)
 
-#### I've got it into this app by the end of development cycle, helped to finish it, added the Definance crypto coin to it and published it on Playstore.
+#### Eu entrei nesse projeto do meio para o final do ciclo de desenvolvimento, finalizando-o, adicionando a moeda cryto "Definance" e publicando-o na Playstore.
 
 
 ### {English version}
@@ -24,4 +24,4 @@
 
 [![Definance-App.jpg](https://i.postimg.cc/brYRvdBH/Definance-App.jpg)](https://postimg.cc/7GczsPDf)
 
-#### I've got it into this app by the end of development cycle, helped to finish it, added the Definance crypto coin to it and published it on Playstore.
+#### I've got it into this app by middle to the end of development cycle, helped to finish it, added the Definance crypto coin to it and published it on Playstore.
